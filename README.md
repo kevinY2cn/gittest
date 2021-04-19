@@ -1,4 +1,4 @@
 git command practice
 
 
-git test
+git add 1
