@@ -1,6 +1,1 @@
-git command practice
-
-
-git add 1
-
-git add 2
+这是学习git操作的临时项目
