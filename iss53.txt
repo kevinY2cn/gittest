@@ -1,5 +1,2 @@
 fixed the iss53
-add footer 4324
-add feature 1
-add feature 2
-add feature 3
+
